@@ -1,3 +1,3 @@
 # api-todo
 
-criando uma simples api
+criando uma api simples
